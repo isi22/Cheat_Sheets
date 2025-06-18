@@ -7,3 +7,5 @@
 ## [3: PyTorch for NLP tasks](https://github.com/isi22/Cheat_Sheets/blob/main/CS_PyTorch_NLP.ipynb) _[(open with nbviewer)](https://nbviewer.org/github/isi22/Cheat_Sheets/blob/main/CS_PyTorch_NLP.ipynb)_
 
 ## [4: HuggingFace for NLP tasks](https://github.com/isi22/Cheat_Sheets/blob/main/CS_HuggingFace.ipynb) _[(open with nbviewer)](https://nbviewer.org/github/isi22/Cheat_Sheets/blob/main/CS_HuggingFace.ipynb)_
+
+## [5: LangChain for NLP tasks](https://github.com/isi22/Cheat_Sheets/blob/main/CS_LangChain.ipynb) _[(open with nbviewer)](https://nbviewer.org/github/isi22/Cheat_Sheets/blob/main/CS_LangChain.ipynb)_
